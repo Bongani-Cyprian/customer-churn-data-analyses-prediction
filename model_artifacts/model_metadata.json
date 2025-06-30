@@ -1,0 +1,8 @@
+{
+  "model": "XGBoost + OneHot + Scaler",
+  "version": "1.0",
+  "date": "2025-06-24",
+  "train_rows": 800,
+  "auc_test": 0.6607576493443418,
+  "creator": "Churn Analytics Team"
+}
