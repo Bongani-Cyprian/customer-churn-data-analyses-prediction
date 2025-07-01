@@ -34,7 +34,7 @@ A Streamlit dashboard that predicts customer churn using XGBoost. It offers inte
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 
 Python 3.9+ • Streamlit • XGBoost • joblib • Pandas • Plotly  
 
