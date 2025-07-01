@@ -1,4 +1,4 @@
-# 🚀 Churn Prediction App
+# Churn Prediction Model 
 
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)  
 [![Streamlit Community](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)  
