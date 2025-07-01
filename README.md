@@ -6,7 +6,7 @@
 
 ---
 
-## 🤔 Project Context  
+##  Project Context  
 
 In competitive telecom markets, retaining a customer costs up to five times less than acquiring a new one.  
 This app analyzes usage, billing, and demographic data with an XGBoost model to predict churn risk.
@@ -18,14 +18,14 @@ This app analyzes usage, billing, and demographic data with an XGBoost model to 
 
 ---
 
-## 📖 Overview  
+## Overview  
 
 A Streamlit dashboard that predicts customer churn using XGBoost. It offers interactive charts and a threshold slider to tune recall vs. precision.  
 ![App Demo](assets/demo.png)
 
 ---
 
-## ✨ Features  
+##  Features  
 
 - Adjustable probability threshold  
 - Plotly-powered feature importances  
@@ -40,7 +40,7 @@ Python 3.9+ • Streamlit • XGBoost • joblib • Pandas • Plotly
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone & install
 ```bash
